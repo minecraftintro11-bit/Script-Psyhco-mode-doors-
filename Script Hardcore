@@ -1,0 +1,63 @@
+local HardCore = {
+    Title = "FIRST PAIN", -- Made by MuhammadGames and Volta
+    Desc = "Join a Match of HardCore For the First Time enjoy the suffering.",
+    Reason = "You executed the HardCore script.",
+    Image = "https://github.com/MuhXd/Models/blob/main/HardCoreDoors.png?raw=true",
+    id = 1,
+}
+
+local DepthW = {
+    Title = "Finally Free",
+    Desc = "Encounter Depth",
+    Reason = "Survive Depth",
+    Image = "https://github.com/MuhXd/DoorSuff/blob/main/DoorsModes/Png.png?raw=true",
+    id = 2,
+}
+
+local Depth = {
+    Title = "The Entity Is Still Freezing",
+    Desc = "It's So Cold first depth death",
+    Reason = "Dont Survive Depth",
+    Image = "https://github.com/MuhXd/DoorSuff/blob/main/DoorsModes/Png.png?raw=true",
+    id = 3,
+}
+
+local Smiley = {
+    Title = "truth has come",
+    Desc = "survived the weird smiling png",
+    Reason = "Encounter and Survive Smiley",
+    Image = "https://tr.rbxcdn.com/74de4e7b5e39c15126ca858f0ad19c80/420/420/Image/Png",
+    id = 4,
+}
+
+local SmilesDie = {
+    Title = "Smile to Fail",
+    Desc = "Don't Smile",
+    Reason = "Encounter And Dont Survive Smiler",
+    Image = "https://tr.rbxcdn.com/74de4e7b5e39c15126ca858f0ad19c80/420/420/Image/Png",
+    id = 5,
+}
+
+local NightmareRush ={
+    Title = "Rush From Your Nightmares",
+    Desc = "Don't Be fooled",
+    Reason = "Encounter And Survive Nightmare Rush",
+    Image = "https://tr.rbxcdn.com/74de4e7b5e39c15126ca858f0ad19c80/420/420/Image/Png",
+    id = 6,
+}
+
+local NightmareAmbush ={
+    Title = "Ambush But Even Harder",
+    Desc = "Don't Be fooled",
+    Reason = "Encounter And Survive Nightmare Ambush",
+    Image = "https://tr.rbxcdn.com/74de4e7b5e39c15126ca858f0ad19c80/420/420/Image/Png",
+    id = 7,
+}
+
+local NightmareAmbush ={
+    Title = "Ambush But Even Harder",
+    Desc = "Don't Be fooled",
+    Reason = "Encounter And Survive Nightmare Ambush",
+    Image = "https://tr.rbxcdn.com/74de4e7b5e39c15126ca858f0ad19c80/420/420/Image/Png",
+    id = 8,
+}
